@@ -16,15 +16,15 @@ header{
     margin-right: auto;
     margin-left: auto;
 }
-.kozepre{
-    margin-left: 450px;
-    text-align: center;
+table{
+    margin: auto;
 }
+    
 #kep1{
     height: 153px;
     width: 230px;
     border: 1px solid black;
 }
-td{
+#td2{
     background-color: crimson;
 }
